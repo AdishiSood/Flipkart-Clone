@@ -1,6 +1,6 @@
 # AddToCart
 
-[Sneak Peak](https://angular-ivy-kkjxyq.stackblitz.io/products)<br>
+[Sneak Peak](https://angular-ivy-hvu5as.stackblitz.io/products)<br>
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
